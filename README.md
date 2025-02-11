@@ -1,6 +1,6 @@
 # AICTE-Internship-Potato-Leaf-Disease-Detection
 🥔🍃 Potato Leaf Disease Detection
-## 📌 Overview
+## Overview
 This project is a deep learning-based system for detecting potato leaf diseases using Convolutional Neural Networks (CNNs). The model classifies potato leaves into three categories:
 
 ✅ Healthy
@@ -11,7 +11,7 @@ This project is a deep learning-based system for detecting potato leaf diseases 
 
 The system takes an image of a potato leaf as input, processes it using a trained CNN model, and predicts the disease type.
 
-## 🚀 Features
+## Features
 ✔️ Automated disease detection using deep learning
 
 ✔️ Image preprocessing for enhanced accuracy
@@ -22,7 +22,7 @@ The system takes an image of a potato leaf as input, processes it using a traine
 
 ✔️ Fast and accurate classification
 
-## 🛠️ Tech Stack
+##  Tech Stack
 Programming Language: Python 🐍
 
 Deep Learning Framework: TensorFlow / PyTorch
