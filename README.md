@@ -50,9 +50,9 @@ Web Deployment: Flask / FastAPI (optional)
 
 2.run -r requirements.txt
 
-3.after we have use streamlit
+3.after we have to use streamlit
 
-4.run: streamlit run web.py
+4.on cmd run: streamlit run web.py
 
 ## Dataset
 The model is trained on a Potato Leaf Dataset obtained from PlantVillage. It contains thousands of labeled images of healthy and diseased potato leaves.
